@@ -1,7 +1,7 @@
-# Canalotos-UEFI
+# CanalotuUefi
 
-此代码库是无需edk2构建系统的UEFI库，基于edk2 MdePkg使用C++重写。  
-适用于MSVC，仅支持x64.  
+此代码库是无需edk2构建系统的UEFI库，使用BSD-2-Clause-Patent进行开源。  
+CanalotuUefi基于edk2，使用C++重写，适用于MSVC，仅支持x64.  
 
 更新进度取决于我的需求。  
 
